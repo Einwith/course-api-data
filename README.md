@@ -4,7 +4,7 @@
 A template for Spring Boot application reference.
 
 ## Function
-Sending request and get response for course info
+Send request and get response for course information
 
 http://localhost:8080/topics
 
